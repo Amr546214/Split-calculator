@@ -62,7 +62,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+<h1>total friends has to buttons (1==> to open split form , 2==> to delete this friend from friends list and delete also from local storage)</h1>
 <img width="439" height="471" alt="image" src="https://github.com/user-attachments/assets/982c333e-dc34-4c66-b5bb-563c3ae97721" />
+
+<h1>Add Friend Form</h1>
+<img width="435" height="281" alt="image" src="https://github.com/user-attachments/assets/f38b012b-33c2-4f6f-ba76-a135da9eacde" />
+
+<h1>if you select friend this section will be open to handle split</h1>
+<img width="530" height="405" alt="image" src="https://github.com/user-attachments/assets/9456a3c4-5364-4640-8579-c78436c0a3a0" />
+
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
